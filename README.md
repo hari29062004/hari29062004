@@ -3,14 +3,11 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on App development
 - 📫 reach me through 
-- Linkedin https://www.linkedin.com/in/rharikrishnan0604
+- Linkedin: https://www.linkedin.com/in/rharikrishnan0604
 
-- X or Twitter 
- https://x.com/rharikrishnan06?t=VjiwaOMyqqHzpCUOu-QL7w&s=09
+- X or Twitter: https://x.com/rharikrishnan06?t=VjiwaOMyqqHzpCUOu-QL7w&s=09
 
-- Instagram 
-
-https://www.instagram.com/rharikrishnan0604?igsh=bGdkcGxvOHlxaGw1
+- Instagram: https://www.instagram.com/rharikrishnan0604?igsh=bGdkcGxvOHlxaGw1
 
 
 <!---
